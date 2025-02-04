@@ -13,7 +13,8 @@ Idea Bloom is a full-stack web application designed to foster idea sharing and d
 - Frontend: React 19, Tailwind CSS
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Authentication: JWT (JSON Web Token)
+- Authentication: Clerk Authentication
+- Tools: Postman (for testing), ImageKit.io (for image uploads)
 
 ## Installation & Setup
 1. Clone the repository:
