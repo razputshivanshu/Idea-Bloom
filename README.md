@@ -52,12 +52,13 @@
 ## 🖼️ Screenshots
 
 | **Home Page** | **Single Post Page** |
-|---------------|----------------------|
-| ![Home Page](<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/df8c2f61-8cbb-4a29-8f4b-502117e5c6b6" />) | ![Single Post Page](<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/5c45c904-8416-4762-bc5b-3b89f5c7260d" />) |
+|--------------|----------------------|
+| ![Home Page](https://github.com/user-attachments/assets/df8c2f61-8cbb-4a29-8f4b-502117e5c6b6) | ![Single Post Page](https://github.com/user-attachments/assets/5c45c904-8416-4762-bc5b-3b89f5c7260d) |
 
 | **Dark Mode** | **Write Post Page** |
-|---------------|----------------------|
-| ![Dark Mode](<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/af393a44-2ae6-45e1-8dd8-b1031f3ee743" />) | ![Write Post Page](<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e40aa656-4d03-43e3-921c-57a8d2bc9cb1" />) |
+|--------------|----------------------|
+| ![Dark Mode](https://github.com/user-attachments/assets/af393a44-2ae6-45e1-8dd8-b1031f3ee743) | ![Write Post Page](https://github.com/user-attachments/assets/e40aa656-4d03-43e3-921c-57a8d2bc9cb1) |
+
 
 ---
 
