@@ -49,6 +49,9 @@
 
 ---
 
+## High Level Design:
+<img width="798" alt="Image" src="https://github.com/user-attachments/assets/e8c0829b-95a0-4b45-85ef-40fff21518dd" />
+
 ## 🖼️ Screenshots
 
 | **Home Page** | **Single Post Page** |
