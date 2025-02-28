@@ -49,8 +49,18 @@
 
 ---
 
-## High Level Design:
+## High-Level Design:
 <img width="798" alt="Image" src="https://github.com/user-attachments/assets/e8c0829b-95a0-4b45-85ef-40fff21518dd" />
+
+## Low-Level Design:
+<img width="777" alt="Image" src="https://github.com/user-attachments/assets/fecebaf8-73f8-4cbd-9bd0-2b8c1ddaa75c" />
+
+## Presentation:
+[IdeaBloomPPT.pptx](https://github.com/user-attachments/files/19029520/IdeaBloomPPT.pptx)
+
+
+
+
 
 ## 🖼️ Screenshots
 
